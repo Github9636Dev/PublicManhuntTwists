@@ -22,6 +22,8 @@ Features:
  
   Automatic start the twist when manhunt starts
   Toggleable
-  
+
   Hides the name of the twist (turns into a random name)
   Toggleable
+  
+I am aware that this version of the plugin gives a warning on startup, I will resolve this issue as soon as possible
