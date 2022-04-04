@@ -1,0 +1,11 @@
+command: /wbtwist
+overpowered-potions: false
+craftable-splash: true
+random-name: true
+runner-only: true
+autostart: true
+
+names: [CustomTNT, InsaneBosses, InstakillHunters, LookingAtSky5MinsGivesOpLoot, GuardiansDropOPLoot]
+
+maxlevel: 10
+duration: 30
