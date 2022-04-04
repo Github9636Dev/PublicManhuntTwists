@@ -1,0 +1,9 @@
+name: WaterBottleTwist
+version: 1
+main: com.hcfpetdev.waterbottletwist.Main
+author: 9636Dev
+authors:
+  - 9636Dev
+  - hcfpetdev
+website: github.com/9636Dev
+api-version: 1.18
